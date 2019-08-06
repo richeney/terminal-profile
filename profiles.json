@@ -1,281 +1,295 @@
 {
-    "globals" : 
+    "globals" :
     {
         "alwaysShowTabs" : false,
         "defaultProfile" : "{6691901c-764a-11e9-b9c0-bc838515ccd1}",
         "initialCols" : 120,
         "initialRows" : 30,
-        "keybindings" : 
+        "keybindings" :
         [
             {
                 "command" : "closePane",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+w"
                 ]
             },
             {
                 "command" : "copy",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+c"
                 ]
             },
             {
                 "command" : "copyTextWithoutNewlines",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+n"
                 ]
             },
             {
                 "command" : "duplicateTab",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+d"
                 ]
             },
             {
                 "command" : "moveFocusDown",
-                "keys" : 
+                "keys" :
                 [
                     "alt+down"
                 ]
             },
             {
                 "command" : "moveFocusLeft",
-                "keys" : 
+                "keys" :
                 [
                     "alt+left"
                 ]
             },
             {
                 "command" : "moveFocusRight",
-                "keys" : 
+                "keys" :
                 [
                     "alt+right"
                 ]
             },
             {
                 "command" : "moveFocusUp",
-                "keys" : 
+                "keys" :
                 [
                     "alt+up"
                 ]
             },
             {
                 "command" : "newTab",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+t"
                 ]
             },
             {
                 "command" : "newTabProfile0",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+1"
                 ]
             },
             {
                 "command" : "newTabProfile1",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+2"
                 ]
             },
             {
                 "command" : "newTabProfile2",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+3"
                 ]
             },
             {
                 "command" : "newTabProfile3",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+4"
                 ]
             },
             {
                 "command" : "newTabProfile4",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+5"
                 ]
             },
             {
                 "command" : "newTabProfile5",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+6"
                 ]
             },
             {
                 "command" : "newTabProfile6",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+7"
                 ]
             },
             {
                 "command" : "newTabProfile7",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+8"
                 ]
             },
             {
                 "command" : "newTabProfile8",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+9"
                 ]
             },
             {
                 "command" : "nextTab",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+tab"
                 ]
             },
             {
                 "command" : "openSettings",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+,"
                 ]
             },
             {
                 "command" : "paste",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+v"
                 ]
             },
             {
                 "command" : "prevTab",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+tab"
                 ]
             },
             {
                 "command" : "resizePaneLeft",
-                "keys" : 
+                "keys" :
                 [
-                    "ctrl+shift+left"
+                    "ctrl+alt+left"
                 ]
             },
             {
                 "command" : "resizePaneRight",
-                "keys" : 
+                "keys" :
                 [
-                    "ctrl+shift+right"
+                    "ctrl+alt+right"
+                ]
+            },
+            {
+                "command" : "resizePaneUp",
+                "keys" :
+                [
+                    "ctrl+alt+up"
+                ]
+            },
+            {
+                "command" : "resizePaneDown",
+                "keys" :
+                [
+                    "ctrl+alt+down"
                 ]
             },
             {
                 "command" : "scrollDown",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+down"
                 ]
             },
             {
                 "command" : "scrollDownPage",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+pgdn"
                 ]
             },
             {
                 "command" : "scrollUp",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+up"
                 ]
             },
             {
                 "command" : "scrollUpPage",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+pgup"
                 ]
             },
             {
                 "command" : "splitHorizontal",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+-"
                 ]
             },
             {
                 "command" : "splitVertical",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+shift+\\"
                 ]
             },
             {
                 "command" : "switchToTab0",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+1"
                 ]
             },
             {
                 "command" : "switchToTab1",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+2"
                 ]
             },
             {
                 "command" : "switchToTab2",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+3"
                 ]
             },
             {
                 "command" : "switchToTab3",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+4"
                 ]
             },
             {
                 "command" : "switchToTab4",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+5"
                 ]
             },
             {
                 "command" : "switchToTab5",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+6"
                 ]
             },
             {
                 "command" : "switchToTab6",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+7"
                 ]
             },
             {
                 "command" : "switchToTab7",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+8"
                 ]
             },
             {
                 "command" : "switchToTab8",
-                "keys" : 
+                "keys" :
                 [
                     "ctrl+alt+9"
                 ]
@@ -286,7 +300,7 @@
         "showTerminalTitleInTitlebar" : true,
         "wordDelimiters" : " ./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}~?\u2502"
     },
-    "profiles" : 
+    "profiles" :
     [
         {
             "acrylicOpacity" : 0.60000002384185791,
@@ -457,7 +471,7 @@
             "useAcrylic" : true
         }
     ],
-    "schemes" : 
+    "schemes" :
     [
         {
             "background" : "#0C0C0C",

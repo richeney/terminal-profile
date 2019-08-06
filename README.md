@@ -1,10 +1,9 @@
 # Terminal Profile
 
-Based on v0.3 from the store. 
+Based on v0.3 from the store. Note that the svg files are not currently supported.
 
-Note that the svg files are not currently supported.
-
-Resize pane commands seem to only work for left and right, but shift focus works OK.
+* Resize pane using ctrl+alt and cursor keys
+* Focus pane using alt and cursor keys
 
 The default directory for me is:
 
