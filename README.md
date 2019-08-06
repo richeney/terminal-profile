@@ -1,6 +1,6 @@
 # Terminal Profile
 
-Based on [v0.3a](https://github.com/microsoft/terminal/releases) from the store. Note that the svg files are not currently supported.
+Based on [v0.3](https://github.com/microsoft/terminal/releases) from the store. Note that the svg files are not currently supported.
 
 * Resize pane using ctrl+alt and cursor keys
 * Focus pane using alt and cursor keys
